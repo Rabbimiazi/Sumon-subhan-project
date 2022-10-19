@@ -1,0 +1,220 @@
+﻿
+
+<section class="hero-wrap hero-wrap-2" style="background-image: url('/picture/Beef Chilli Meal.jpg');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text align-items-end justify-content-center">
+            <div class="col-md-9 ftco-animate text-center mb-4">
+                <h1 class="mb-2 bread">Book a Table</h1>
+                <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Reservation <i class="ion-ios-arrow-forward"></i></span></p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="ftco-section ftco-no-pt ftco-no-pb">
+    <div class="container-fluid px-0">
+        <div class="row d-flex no-gutters">
+            <div class="col-md-6 order-md-last ftco-animate makereservation p-4 p-md-5 pt-5">
+                <div class="py-md-5">
+                    <div class="heading-section ftco-animate mb-5">
+                        <span class="subheading">Book a table</span>
+                        <h2 class="mb-4">Make Reservation</h2>
+                    </div>
+                    <form action="#">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="">Name</label>
+                                    <input type="text" class="form-control" id="name" placeholder="Your Name">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="">Email</label>
+                                    <input type="text" class="form-control" id="email" placeholder="Your Email">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="">Phone</label>
+                                    <input type="text" class="form-control" id="phone" placeholder="Phone">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="">Date</label>
+                                    <input type="date" class="form-control" id="date" placeholder="Date">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="">Time</label>
+                                    <input type="text" class="form-control" id="time" placeholder="Time">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="">Person</label>
+                                    <div class="select-wrap one-third">
+                                        <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+                                        <select name="" id="person" class="form-control">
+                                            <option value="Null">Person</option>
+                                            <option value="1">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4+">4+</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 mt-3">
+                                <div class="form-group">
+                                    <input type="submit" value="Make a Reservation" id="save" class="btn btn-primary py-3 px-5">
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="col-md-6 d-flex align-items-stretch pb-5 pb-md-0">
+                <div id="map"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+@section scripts
+{
+    @*<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>*@
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+
+
+        })
+
+
+       
+        $("#save").click(function () {
+            var obj = {
+                Name: $("#name").val(),
+                Email: $("#email").val(),
+                Phone: $("#phone").val(),
+                Date: $("#date").val(),
+                Time: $("#time").val(),
+                Person: $("#person").val()
+            }
+            $.ajax({
+                url: "/Reserve/ReserveSave",
+                type: "POST",
+                dataType: "Json",
+                data: JSON.stringify(obj),
+                contentType: "application/Json"
+            }).done(function (data) {
+
+               
+
+              
+                clearall();
+            }).fail(function (err) {
+                console.log(err.responseText);
+            });
+        });//save
+
+        function LoadData() {
+            $.ajax({
+                url: "/Home/Show",
+                type: "GET",
+                dataType: "Json"
+            }).done(function (data) {
+                console.log(data[0].Name);
+                $("#tbl tbody").empty();
+                for (var i = 0; i < data.length; i++) {
+                    $("#tbl tbody").append(
+                        "<tr><td>" + data[i].Id + "</td>" +
+                        "<td>" + data[i].Name + "</td>" +
+                        "<td>" + data[i].Address + "</td>" +
+                        "<td><button class='btn btn-primary' onclick='edit(" + data[i].Id + ")' >Edit</button>" +
+                        "<button class='btn btn-danger' onclick='deletestd(" + data[i].Id + ")' >Delete</button></td>" +
+                        "</tr>"
+                    );
+                }
+            }).fail(function (err) {
+                console.log(err);
+            });
+        }
+        function deletestd(id) {
+
+            $.ajax({
+                url: "/Home/delete/" + id,
+                type: "GET",
+                dataType: "Json"
+            }).done(function (data) {
+
+                console.log(data.success);
+                LoadData();
+
+            }).fail(function (err) {
+
+                console.log(err);
+            });
+
+
+        } //Delete
+        function clearall() {
+            $("#name").val('');
+            $("#email").val('');
+            $("#phone").val('');
+            $("#date").val('');
+            $("#time").val('');
+            $("#person").val('');
+
+        }
+        function edit(id) {
+
+            $.ajax({
+                url: "/Home/Getbyid/" + id,
+                type: "GET",
+                dataType: "Json"
+            }).done(function(data) {
+
+                console.log(data.Name);
+                $("#name").val(data.Name);
+                $("#adress").val(data.Address);
+            }).fail(function(err) {
+
+                console.log(err);
+            });
+        }; //Edit
+
+        $("#btnupdate").click(function() {
+            var obj = {
+                Name: $("#name").val(),
+                Address: $("#adress").val(),
+                Id: $("#id").val()
+            }
+            $.ajax({
+                url: "/Home/Update",
+                type: "POST",
+                dataType: "Json",
+                data: JSON.stringify(obj),
+                contentType: "application/json"
+            }).done(function (data) {
+
+                console.log(data.Name);
+
+                LoadData();
+                clearall();
+
+            }).fail(function (err) {
+
+                console.log(err.responseText);
+            });
+        });
+
+    </script>
+}

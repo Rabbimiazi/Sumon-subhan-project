@@ -1,0 +1,111 @@
+﻿
+@{
+    ViewBag.Title = "Register Yourself";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="ftco-section ftco-counter img ftco-no-pt">
+</section>
+
+<section class="ftco-section ftco-wrap-about">
+    <div>
+        <div >
+            <div class="container">
+                <center><h4 class="modal-title" style="color:forestgreen;font-weight:900"> Registration </h4></center>
+
+                <form>
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" class="form-control" id="name" placeholder="Name">
+                    </div>
+                    <div class="form-group">
+                        <label for="fName">Father's Name </label>
+                        <input type="text" class="form-control" id="fName" placeholder="Father's Name ">
+                    </div>
+                    <div class="form-group">
+                        <label for="mName">Mother's Name</label>
+                        <input type="text" class="form-control" id="mName" placeholder="Mother's Name">
+                    </div>
+                    <div class="form-group">
+                        <label for="Nid">NID</label>
+                        <input type="text" class="form-control" id="Nid" placeholder="National id ">
+                    </div>
+                    <div class="form-group">
+                        <label for="pNo">Passport No </label>
+                        <input type="text" class="form-control" id="pNo" placeholder="Passport No">
+                    </div>
+
+                    @*<div class="input-group">
+                             <div class="input-group-prepend">
+                                 <span class="input-group-text" id="basic-addon1"></span>
+                             </div>
+                             <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                         </div>
+                         <div class="form-row">
+                             <div class="form-group col-md-6">
+                                 <label for="fName">Father's Name </label>
+                                 <input type="text" class="form-control" id="fName" placeholder="Father's Name ">
+                             </div>
+                             <div class="form-group col-md-6">
+                                 <label for="mName">Mother's Name</label>
+                                 <input type="text" class="form-control" id="mName" placeholder="Mother's Name">
+                             </div>
+                         </div>
+                        <div class="form-group">
+                             <label for="inputAddress">Address</label>
+                             <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                         </div>*@
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="skilllevel">Skill Level</label>
+                            <select id="skilllevel" class="form-control">
+                                <option selected>Choose...</option>
+                                <option>Skilled Technicians</option>
+                                <option>Semi Skilled</option>
+                                <option>Un Skilled</option>
+                                <option>Hotel Crew &F&B </option>
+                            </select>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label for="sector">Specific Skill</label>
+                            <select id="sector" class="form-control">
+                                <option selected>Choose...</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="inputAddress">Address </label>
+                        <input type="text" class="form-control" id="inputAddress" placeholder="Apartment, studio, or floor">
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="inputCity">City</label>
+                            <input type="text" class="form-control" id="inputCity">
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label for="inputState">State</label>
+                            <select id="inputState" class="form-control">
+                                <option selected>Choose...</option>
+                                <option>Bangladesh</option>
+                            </select>
+                        </div>
+                        <div class="form-group col-md-2">
+                            <label for="inputZip">Zip</label>
+                            <input type="text" class="form-control" id="inputZip">
+                        </div>
+                    </div>
+                    @*<div class="form-group">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" id="gridCheck">
+                                <label class="form-check-label" for="gridCheck">
+                                    Check me out
+                                </label>
+                            </div>
+                        </div>*@
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+

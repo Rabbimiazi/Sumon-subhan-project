@@ -1,0 +1,1118 @@
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Resturant.dll.config
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Resturant.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Resturant.pdb
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\csc.exe
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\csc.exe.config
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\csc.rsp
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\csi.exe
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\csi.exe.config
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\csi.rsp
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.AppContext.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Console.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\vbc.exe
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\vbc.exe.config
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\vbc.rsp
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Antlr3.Runtime.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\EntityFramework.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\EntityFramework.SqlServer.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Newtonsoft.Json.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Owin.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.Helpers.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.Mvc.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.Optimization.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.Razor.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.WebPages.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\WebGrease.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.Helpers.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.Mvc.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.Optimization.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.Razor.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.WebPages.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Newtonsoft.Json.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Antlr3.Runtime.pdb
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\EntityFramework.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\EntityFramework.SqlServer.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\obj\Debug\Resturant.csproj.CopyComplete
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\obj\Debug\Resturant.dll
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\obj\Debug\Resturant.Migrations.init.resources
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.cache
+C:\Users\Bony Amin\Desktop\Resturant\Resturant\obj\Debug\Resturant.Migrations.inadd.resources
+C:\Users\User\Desktop\Resturant\Resturant\bin\Resturant.dll.config
+C:\Users\User\Desktop\Resturant\Resturant\bin\Resturant.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Resturant.pdb
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Resturant\Resturant\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\EntityFramework.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\Owin.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\WebGrease.dll
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Resturant\Resturant\bin\EntityFramework.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Resturant\Resturant\obj\Debug\Resturant.Migrations.init.resources
+C:\Users\User\Desktop\Resturant\Resturant\obj\Debug\Resturant.Migrations.inadd.resources
+C:\Users\User\Desktop\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Resturant\Resturant\obj\Debug\Resturant.csproj.CopyComplete
+C:\Users\User\Desktop\Resturant\Resturant\obj\Debug\Resturant.dll
+C:\Users\User\Desktop\Resturant\Resturant\obj\Debug\Resturant.pdb
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Resturant.dll.config
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Resturant.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Resturant.pdb
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\csc.exe
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\csc.exe.config
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\csc.rsp
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\csi.exe
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\csi.exe.config
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\csi.rsp
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.AppContext.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Console.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.IO.Compression.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.IO.Pipes.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Security.Claims.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.ValueTuple.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\vbc.exe
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\vbc.exe.config
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\vbc.rsp
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Antlr3.Runtime.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\EntityFramework.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\EntityFramework.SqlServer.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Newtonsoft.Json.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Owin.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.Helpers.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.Mvc.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.Optimization.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.Razor.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.WebPages.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.WebPages.Razor.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\WebGrease.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.Helpers.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.Mvc.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.Optimization.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.Razor.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.WebPages.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\System.Web.WebPages.Razor.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Newtonsoft.Json.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Antlr3.Runtime.pdb
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\EntityFramework.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\EntityFramework.SqlServer.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\ZZAspDotNet\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+E:\Projects\ZZAspDotNet\Resturant\Resturant\obj\Debug\Resturant.Migrations.init.resources
+E:\Projects\ZZAspDotNet\Resturant\Resturant\obj\Debug\Resturant.Migrations.inadd.resources
+E:\Projects\ZZAspDotNet\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.cache
+E:\Projects\ZZAspDotNet\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+E:\Projects\ZZAspDotNet\Resturant\Resturant\obj\Debug\Resturant.csproj.CopyComplete
+E:\Projects\ZZAspDotNet\Resturant\Resturant\obj\Debug\Resturant.dll
+E:\Projects\ZZAspDotNet\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Resturant.dll.config
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Resturant.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Resturant.pdb
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\csc.exe
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\csi.exe
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\EntityFramework.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Owin.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\WebGrease.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\EntityFramework.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.Migrations.init.resources
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.Migrations.inadd.resources
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.csproj.CopyComplete
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.dll
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.Migrations.menue.resources
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.Migrations.menueadd.resources
+E:\Projects\ZZAspDotNet\Resturant\Resturant\obj\Debug\Resturant.Migrations.menue.resources
+E:\Projects\ZZAspDotNet\Resturant\Resturant\obj\Debug\Resturant.Migrations.menueadd.resources
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.Migrations.oreder.resources
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.Migrations.ored.resources
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.Migrations.email.resources
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.Migrations.adddd.resources
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\obj\Debug\Resturant.Migrations.cn.resources
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Content\bootstrap-theme.css
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Content\bootstrap-theme.min.css
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Content\bootstrap.css
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Content\bootstrap.min.css
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\aos.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\bootstrap-datepicker.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\bootstrap.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\google-map.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\jquery-3.2.1.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\jquery-migrate-3.0.1.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\jquery.animateNumber.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\jquery.easing.1.3.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\jquery.magnific-popup.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\jquery.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\jquery.stellar.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\jquery.timepicker.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\jquery.waypoints.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\main.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\owl.carousel.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\popper.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\range.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\scrollax.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Content\Site.css
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\achar.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\Beef Chilli Meal.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\bunamas.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\Chicken Shashlik with Bosnia Roti.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\chingri.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\chotomas.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\coockfish.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\desert.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\elias.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\elisdem.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\fivefish.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\fntruposi.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\fouritem.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\hview.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\kader.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\kalabuna.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\lg.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\logo.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\longsasra.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\m.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\map_tile.png
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\meat.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\meatfry.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\mm.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\mmm.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\mmmm.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\mmmmm.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\mpp.JPG
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\onerupchada.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\pack.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\party.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\ricelocal.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\Rpchada.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\rupchada.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\ruposi.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\sena.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\Small Fish Fry.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\sorseilis.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\threefish.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\picture\vorta.jpg
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\bootstrap.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\bootstrap.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\feliciano\js\.DS_Store
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\jquery-3.3.1.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\jquery-3.3.1.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\jquery-3.3.1.slim.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\jquery-3.3.1.slim.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\jquery.validate.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\jquery.validate.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\jquery.validate.unobtrusive.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\jquery.validate.unobtrusive.min.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\modernizr-2.8.3.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Content\bootstrap.min.css.map
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Content\bootstrap.css.map
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Content\bootstrap-theme.min.css.map
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Content\bootstrap-theme.css.map
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\jquery-3.3.1.slim.min.map
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\jquery-3.3.1.min.map
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\jquery-3.3.1.intellisense.js
+C:\Users\User\Desktop\BonyAmin\Resturant\Resturant\bin\Scripts\jquery.validate-vsdoc.js
+E:\Resturant\Resturant\bin\Content\bootstrap-theme.css
+E:\Resturant\Resturant\bin\Content\bootstrap-theme.min.css
+E:\Resturant\Resturant\bin\Content\bootstrap.css
+E:\Resturant\Resturant\bin\Content\bootstrap.min.css
+E:\Resturant\Resturant\bin\feliciano\js\aos.js
+E:\Resturant\Resturant\bin\feliciano\js\bootstrap-datepicker.js
+E:\Resturant\Resturant\bin\feliciano\js\bootstrap.min.js
+E:\Resturant\Resturant\bin\feliciano\js\google-map.js
+E:\Resturant\Resturant\bin\feliciano\js\jquery-3.2.1.min.js
+E:\Resturant\Resturant\bin\feliciano\js\jquery-migrate-3.0.1.min.js
+E:\Resturant\Resturant\bin\feliciano\js\jquery.animateNumber.min.js
+E:\Resturant\Resturant\bin\feliciano\js\jquery.easing.1.3.js
+E:\Resturant\Resturant\bin\feliciano\js\jquery.magnific-popup.min.js
+E:\Resturant\Resturant\bin\feliciano\js\jquery.min.js
+E:\Resturant\Resturant\bin\feliciano\js\jquery.stellar.min.js
+E:\Resturant\Resturant\bin\feliciano\js\jquery.timepicker.min.js
+E:\Resturant\Resturant\bin\feliciano\js\jquery.waypoints.min.js
+E:\Resturant\Resturant\bin\feliciano\js\main.js
+E:\Resturant\Resturant\bin\feliciano\js\owl.carousel.min.js
+E:\Resturant\Resturant\bin\feliciano\js\popper.min.js
+E:\Resturant\Resturant\bin\feliciano\js\range.js
+E:\Resturant\Resturant\bin\feliciano\js\scrollax.min.js
+E:\Resturant\Resturant\bin\Content\Site.css
+E:\Resturant\Resturant\bin\picture\achar.jpg
+E:\Resturant\Resturant\bin\picture\Beef Chilli Meal.jpg
+E:\Resturant\Resturant\bin\picture\bunamas.jpg
+E:\Resturant\Resturant\bin\picture\Chicken Shashlik with Bosnia Roti.jpg
+E:\Resturant\Resturant\bin\picture\chingri.jpg
+E:\Resturant\Resturant\bin\picture\chotomas.jpg
+E:\Resturant\Resturant\bin\picture\coockfish.jpg
+E:\Resturant\Resturant\bin\picture\desert.jpg
+E:\Resturant\Resturant\bin\picture\elias.jpg
+E:\Resturant\Resturant\bin\picture\elisdem.jpg
+E:\Resturant\Resturant\bin\picture\fivefish.jpg
+E:\Resturant\Resturant\bin\picture\fntruposi.jpg
+E:\Resturant\Resturant\bin\picture\fouritem.jpg
+E:\Resturant\Resturant\bin\picture\hview.jpg
+E:\Resturant\Resturant\bin\picture\kader.jpg
+E:\Resturant\Resturant\bin\picture\kalabuna.jpg
+E:\Resturant\Resturant\bin\picture\lg.jpg
+E:\Resturant\Resturant\bin\picture\logo.jpg
+E:\Resturant\Resturant\bin\picture\longsasra.jpg
+E:\Resturant\Resturant\bin\picture\m.jpg
+E:\Resturant\Resturant\bin\picture\map_tile.png
+E:\Resturant\Resturant\bin\picture\meat.jpg
+E:\Resturant\Resturant\bin\picture\meatfry.jpg
+E:\Resturant\Resturant\bin\picture\mm.jpg
+E:\Resturant\Resturant\bin\picture\mmm.jpg
+E:\Resturant\Resturant\bin\picture\mmmm.jpg
+E:\Resturant\Resturant\bin\picture\mmmmm.jpg
+E:\Resturant\Resturant\bin\picture\mpp.JPG
+E:\Resturant\Resturant\bin\picture\onerupchada.jpg
+E:\Resturant\Resturant\bin\picture\pack.jpg
+E:\Resturant\Resturant\bin\picture\party.jpg
+E:\Resturant\Resturant\bin\picture\ricelocal.jpg
+E:\Resturant\Resturant\bin\picture\Rpchada.jpg
+E:\Resturant\Resturant\bin\picture\rupchada.jpg
+E:\Resturant\Resturant\bin\picture\ruposi.jpg
+E:\Resturant\Resturant\bin\picture\sena.jpg
+E:\Resturant\Resturant\bin\picture\Small Fish Fry.jpg
+E:\Resturant\Resturant\bin\picture\sorseilis.jpg
+E:\Resturant\Resturant\bin\picture\threefish.jpg
+E:\Resturant\Resturant\bin\picture\vorta.jpg
+E:\Resturant\Resturant\bin\Scripts\bootstrap.js
+E:\Resturant\Resturant\bin\Scripts\bootstrap.min.js
+E:\Resturant\Resturant\bin\feliciano\js\.DS_Store
+E:\Resturant\Resturant\bin\Scripts\jquery-3.3.1.js
+E:\Resturant\Resturant\bin\Scripts\jquery-3.3.1.min.js
+E:\Resturant\Resturant\bin\Scripts\jquery-3.3.1.slim.js
+E:\Resturant\Resturant\bin\Scripts\jquery-3.3.1.slim.min.js
+E:\Resturant\Resturant\bin\Scripts\jquery.validate.js
+E:\Resturant\Resturant\bin\Scripts\jquery.validate.min.js
+E:\Resturant\Resturant\bin\Scripts\jquery.validate.unobtrusive.js
+E:\Resturant\Resturant\bin\Scripts\jquery.validate.unobtrusive.min.js
+E:\Resturant\Resturant\bin\Scripts\modernizr-2.8.3.js
+E:\Resturant\Resturant\bin\Content\bootstrap.min.css.map
+E:\Resturant\Resturant\bin\Content\bootstrap.css.map
+E:\Resturant\Resturant\bin\Content\bootstrap-theme.min.css.map
+E:\Resturant\Resturant\bin\Content\bootstrap-theme.css.map
+E:\Resturant\Resturant\bin\Scripts\jquery-3.3.1.slim.min.map
+E:\Resturant\Resturant\bin\Scripts\jquery-3.3.1.min.map
+E:\Resturant\Resturant\bin\Scripts\jquery-3.3.1.intellisense.js
+E:\Resturant\Resturant\bin\Scripts\jquery.validate-vsdoc.js
+E:\Resturant\Resturant\bin\Resturant.dll.config
+E:\Resturant\Resturant\bin\Resturant.dll
+E:\Resturant\Resturant\bin\Resturant.pdb
+E:\Resturant\Resturant\bin\roslyn\csc.exe
+E:\Resturant\Resturant\bin\roslyn\csc.exe.config
+E:\Resturant\Resturant\bin\roslyn\csc.rsp
+E:\Resturant\Resturant\bin\roslyn\csi.exe
+E:\Resturant\Resturant\bin\roslyn\csi.exe.config
+E:\Resturant\Resturant\bin\roslyn\csi.rsp
+E:\Resturant\Resturant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Resturant\Resturant\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Resturant\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Resturant\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Resturant\Resturant\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Resturant\Resturant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Resturant\Resturant\bin\roslyn\System.AppContext.dll
+E:\Resturant\Resturant\bin\roslyn\System.Collections.Immutable.dll
+E:\Resturant\Resturant\bin\roslyn\System.Console.dll
+E:\Resturant\Resturant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Resturant\Resturant\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Resturant\Resturant\bin\roslyn\System.IO.Compression.dll
+E:\Resturant\Resturant\bin\roslyn\System.IO.FileSystem.dll
+E:\Resturant\Resturant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Resturant\Resturant\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Resturant\Resturant\bin\roslyn\System.IO.Pipes.dll
+E:\Resturant\Resturant\bin\roslyn\System.Reflection.Metadata.dll
+E:\Resturant\Resturant\bin\roslyn\System.Security.AccessControl.dll
+E:\Resturant\Resturant\bin\roslyn\System.Security.Claims.dll
+E:\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Resturant\Resturant\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Resturant\Resturant\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Resturant\Resturant\bin\roslyn\System.ValueTuple.dll
+E:\Resturant\Resturant\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Resturant\Resturant\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Resturant\Resturant\bin\roslyn\System.Xml.XPath.dll
+E:\Resturant\Resturant\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Resturant\Resturant\bin\roslyn\vbc.exe
+E:\Resturant\Resturant\bin\roslyn\vbc.exe.config
+E:\Resturant\Resturant\bin\roslyn\vbc.rsp
+E:\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe
+E:\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe.config
+E:\Resturant\Resturant\bin\Antlr3.Runtime.dll
+E:\Resturant\Resturant\bin\EntityFramework.dll
+E:\Resturant\Resturant\bin\EntityFramework.SqlServer.dll
+E:\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Resturant\Resturant\bin\Microsoft.Owin.dll
+E:\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.dll
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.dll
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Resturant\Resturant\bin\Microsoft.Web.Infrastructure.dll
+E:\Resturant\Resturant\bin\Newtonsoft.Json.dll
+E:\Resturant\Resturant\bin\Owin.dll
+E:\Resturant\Resturant\bin\System.Web.Helpers.dll
+E:\Resturant\Resturant\bin\System.Web.Mvc.dll
+E:\Resturant\Resturant\bin\System.Web.Optimization.dll
+E:\Resturant\Resturant\bin\System.Web.Razor.dll
+E:\Resturant\Resturant\bin\System.Web.WebPages.Deployment.dll
+E:\Resturant\Resturant\bin\System.Web.WebPages.dll
+E:\Resturant\Resturant\bin\System.Web.WebPages.Razor.dll
+E:\Resturant\Resturant\bin\WebGrease.dll
+E:\Resturant\Resturant\bin\System.Web.Helpers.xml
+E:\Resturant\Resturant\bin\System.Web.Mvc.xml
+E:\Resturant\Resturant\bin\System.Web.Optimization.xml
+E:\Resturant\Resturant\bin\System.Web.Razor.xml
+E:\Resturant\Resturant\bin\System.Web.WebPages.xml
+E:\Resturant\Resturant\bin\System.Web.WebPages.Deployment.xml
+E:\Resturant\Resturant\bin\System.Web.WebPages.Razor.xml
+E:\Resturant\Resturant\bin\Newtonsoft.Json.xml
+E:\Resturant\Resturant\bin\Antlr3.Runtime.pdb
+E:\Resturant\Resturant\bin\EntityFramework.xml
+E:\Resturant\Resturant\bin\EntityFramework.SqlServer.xml
+E:\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Resturant\Resturant\bin\Microsoft.Owin.xml
+E:\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.xml
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.xml
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+E:\Resturant\Resturant\obj\Debug\Resturant.Migrations.init.resources
+E:\Resturant\Resturant\obj\Debug\Resturant.Migrations.inadd.resources
+E:\Resturant\Resturant\obj\Debug\Resturant.Migrations.menue.resources
+E:\Resturant\Resturant\obj\Debug\Resturant.Migrations.menueadd.resources
+E:\Resturant\Resturant\obj\Debug\Resturant.Migrations.oreder.resources
+E:\Resturant\Resturant\obj\Debug\Resturant.Migrations.ored.resources
+E:\Resturant\Resturant\obj\Debug\Resturant.Migrations.email.resources
+E:\Resturant\Resturant\obj\Debug\Resturant.Migrations.adddd.resources
+E:\Resturant\Resturant\obj\Debug\Resturant.Migrations.cn.resources
+E:\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.cache
+E:\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+E:\Resturant\Resturant\obj\Debug\Resturant.csproj.CopyComplete
+E:\Resturant\Resturant\obj\Debug\Resturant.dll
+E:\Resturant\Resturant\obj\Debug\Resturant.pdb
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Content\bootstrap-theme.css
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Content\bootstrap-theme.min.css
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Content\bootstrap.css
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Content\bootstrap.min.css
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\aos.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\bootstrap-datepicker.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\bootstrap.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\google-map.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\jquery-3.2.1.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\jquery-migrate-3.0.1.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\jquery.animateNumber.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\jquery.easing.1.3.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\jquery.magnific-popup.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\jquery.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\jquery.stellar.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\jquery.timepicker.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\jquery.waypoints.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\main.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\owl.carousel.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\popper.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\range.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\scrollax.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Content\Site.css
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\achar.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\Beef Chilli Meal.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\bunamas.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\Chicken Shashlik with Bosnia Roti.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\chingri.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\chotomas.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\coockfish.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\desert.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\elias.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\elisdem.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\fivefish.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\fntruposi.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\fouritem.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\hview.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\kader.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\kalabuna.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\lg.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\logo.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\longsasra.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\m.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\map_tile.png
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\meat.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\meatfry.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\mm.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\mmm.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\mmmm.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\mmmmm.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\mpp.JPG
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\onerupchada.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\pack.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\party.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\ricelocal.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\Rpchada.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\rupchada.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\ruposi.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\sena.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\Small Fish Fry.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\sorseilis.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\threefish.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\picture\vorta.jpg
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\bootstrap.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\bootstrap.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\feliciano\js\.DS_Store
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\jquery-3.3.1.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\jquery-3.3.1.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\jquery-3.3.1.slim.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\jquery-3.3.1.slim.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\jquery.validate.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\jquery.validate.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\jquery.validate.unobtrusive.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\jquery.validate.unobtrusive.min.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\modernizr-2.8.3.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Content\bootstrap.min.css.map
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Content\bootstrap.css.map
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Content\bootstrap-theme.min.css.map
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Content\bootstrap-theme.css.map
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\jquery-3.3.1.slim.min.map
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\jquery-3.3.1.min.map
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\jquery-3.3.1.intellisense.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Scripts\jquery.validate-vsdoc.js
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Resturant.dll.config
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Resturant.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Resturant.pdb
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\csc.exe
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\csc.exe.config
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\csc.rsp
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\csi.exe
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\csi.exe.config
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\csi.rsp
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.AppContext.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Collections.Immutable.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Console.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.IO.Compression.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.IO.FileSystem.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.IO.Pipes.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Reflection.Metadata.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Security.AccessControl.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Security.Claims.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.ValueTuple.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Xml.XPath.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\vbc.exe
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\vbc.exe.config
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\vbc.rsp
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\roslyn\VBCSCompiler.exe.config
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Antlr3.Runtime.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\EntityFramework.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\EntityFramework.SqlServer.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Web.Infrastructure.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Newtonsoft.Json.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Owin.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.Helpers.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.Mvc.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.Optimization.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.Razor.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.WebPages.Deployment.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.WebPages.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.WebPages.Razor.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\WebGrease.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.Helpers.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.Mvc.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.Optimization.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.Razor.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.WebPages.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.WebPages.Deployment.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\System.Web.WebPages.Razor.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Newtonsoft.Json.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Antlr3.Runtime.pdb
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\EntityFramework.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\EntityFramework.SqlServer.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Google.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.Migrations.init.resources
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.Migrations.inadd.resources
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.Migrations.menue.resources
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.Migrations.menueadd.resources
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.Migrations.oreder.resources
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.Migrations.ored.resources
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.Migrations.email.resources
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.Migrations.adddd.resources
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.Migrations.cn.resources
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.cache
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.csproj.CopyComplete
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.dll
+D:\Z&ZSolution\Resturant\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Content\bootstrap-theme.css
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Content\bootstrap-theme.min.css
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Content\bootstrap.css
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Content\bootstrap.min.css
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\aos.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\bootstrap-datepicker.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\bootstrap.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\google-map.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\jquery-3.2.1.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\jquery-migrate-3.0.1.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\jquery.animateNumber.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\jquery.easing.1.3.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\jquery.magnific-popup.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\jquery.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\jquery.stellar.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\jquery.timepicker.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\jquery.waypoints.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\main.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\owl.carousel.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\popper.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\range.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\scrollax.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Content\Site.css
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\achar.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\Beef Chilli Meal.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\bunamas.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\Chicken Shashlik with Bosnia Roti.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\chingri.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\chotomas.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\coockfish.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\desert.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\elias.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\elisdem.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\fivefish.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\fntruposi.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\fouritem.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\hview.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\kader.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\kalabuna.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\lg.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\logo.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\longsasra.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\m.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\map_tile.png
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\meat.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\meatfry.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\mm.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\mmm.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\mmmm.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\mmmmm.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\mpp.JPG
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\onerupchada.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\pack.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\party.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\ricelocal.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\Rpchada.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\rupchada.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\ruposi.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\sena.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\Small Fish Fry.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\sorseilis.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\threefish.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\picture\vorta.jpg
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\bootstrap.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\bootstrap.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\feliciano\js\.DS_Store
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\jquery-3.3.1.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\jquery-3.3.1.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\jquery-3.3.1.slim.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\jquery-3.3.1.slim.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\jquery.validate.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\jquery.validate.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\jquery.validate.unobtrusive.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\jquery.validate.unobtrusive.min.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\modernizr-2.8.3.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Content\bootstrap.min.css.map
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Content\bootstrap.css.map
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Content\bootstrap-theme.min.css.map
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Content\bootstrap-theme.css.map
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\jquery-3.3.1.slim.min.map
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\jquery-3.3.1.min.map
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\jquery-3.3.1.intellisense.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Scripts\jquery.validate-vsdoc.js
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Resturant.dll.config
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Resturant.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Resturant.pdb
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\csc.exe
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\csi.exe
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\EntityFramework.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Owin.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\WebGrease.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\EntityFramework.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.Migrations.init.resources
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.Migrations.inadd.resources
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.Migrations.menue.resources
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.Migrations.menueadd.resources
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.Migrations.oreder.resources
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.Migrations.ored.resources
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.Migrations.email.resources
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.Migrations.adddd.resources
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.Migrations.cn.resources
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.csproj.GenerateResource.cache
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.csproj.CopyComplete
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.dll
+C:\Users\User\Desktop\hasan\ToraProject\Resturant\obj\Debug\Resturant.pdb

@@ -1,0 +1,273 @@
+﻿
+
+<style>
+    .cust {
+        font-family: cursive;
+        align-content: center;
+    }
+</style>
+<section class="home-slider owl-carousel js-fullheight">
+    <div class="slider-item js-fullheight" style="background-image: url('/picture/Slider/Slider11.jpg');">
+        @*<div class="overlay"></div>*@
+        <div class="container">
+            <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
+                <div class="col-md-12 col-sm-12 text-center ftco-animate">
+                    @*<h3 style="color:white">Message From MD</h3>*@
+                    @*<span class="subheading">Message From MD</span>
+                        <h1 class="mb-4">Trust Overseas <br /> Recruiting Agency</h1>*@
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="ftco-section ftco-no-pt ftco-no-pb contact-section">
+
+    <div class="container">
+        <center> <h5>Contact</h5></center>
+        @*<div class="row d-flex align-items-stretch no-gutters">
+                <div class="col-md-6 pt-5 px-2 pb-2 p-md-5 order-md-last">
+                    <h2 class="h4 mb-2 mb-md-5 font-weight-bold">Contact Us</h2>
+                    <form action="#">
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="name" placeholder="Your Name">
+                            <p class="nmerr" style="color:#f50909"></p>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="email" placeholder="Your Email">
+                            <p class="emerr" style="color:#f50909"></p>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="phone" placeholder="Your Phone">
+                            <p class="pnerr" style="color:#f50909"></p>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="subject" placeholder="Subject">
+                            <p class="sberr" style="color:#f50909"></p>
+                        </div>
+                        <div class="form-group">
+                            <textarea name="" id="message" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+                            <p class="mserr" style="color:#f50909"></p>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" value="Send Message" id="savemes" class="btn btn-primary py-3 px-5">
+                        </div>
+                    </form>
+                </div>
+                <div class="col-md-6 d-flex align-items-stretch">
+                    <div id="map"></div>
+                </div>
+            </div>*@
+    </div>
+</section>
+<!--<section class="ftco-section contact-section">
+    <div class="container">
+        <div class="row d-flex contact-info">
+            <div class="col-md-12 mb-4">
+                <h2 class="h4 font-weight-bold">Contact Information</h2>
+            </div>
+            <div class="w-100"></div>
+            <div class="col-md-3 d-flex">
+                <div class="dbox">
+                    <p>
+                        <span>Address:</span> New Beach Road, Shugondha Point, kolatoli Cox's Bazar
+                        Cox's Bazar, Bangladesh
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-3 d-flex">
+                <div class="dbox">
+                    <p><span>Phone:</span> 01762-633333</p>
+                </div>
+            </div>
+            <div class="col-md-3 d-flex">
+                <div class="dbox">
+                    <p><span>Email:</span> <a href="mailto:ruposhibanglarestaurantcxb@gmail.com">ruposhibanglarestaurantcxb@gmail.com</a></p>
+                </div>
+            </div>-->
+@*<div class="col-md-3 d-flex">
+        <div class="dbox">
+            <p><span>Website</span> <a href="#">ruposhibanglaresturant.com</a></p>
+        </div>
+    </div>*@
+<!--</div>
+    </div>
+</section>-->
+
+@section scripts
+{
+    @*<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>*@
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+
+
+        })
+
+
+
+        $("#savemes").click(function () {
+            if (validateForm()) {
+                var obj = {
+                    Name: $("#name").val(),
+                    Email: $("#email").val(),
+                    Phone: $("#phone").val(),
+                    Subject: $("#subject").val(),
+                    Message: $("#message").val(),
+
+                }
+                $.ajax({
+                    url: "/Contact/ContactSave",
+                    type: "POST",
+                    dataType: "Json",
+                    data: JSON.stringify(obj),
+                    contentType: "application/Json"
+                }).done(function (data) {
+
+
+                    LoadData();
+
+                    clearall();
+                }).fail(function (err) {
+                    console.log(err.responseText);
+                });
+            }
+        });//save
+
+        function LoadData() {
+            $.ajax({
+                url: "/Home/Show",
+                type: "GET",
+                dataType: "Json"
+            }).done(function (data) {
+                console.log(data[0].Name);
+                $("#tbl tbody").empty();
+                for (var i = 0; i < data.length; i++) {
+                    $("#tbl tbody").append(
+                        "<tr><td>" + data[i].Id + "</td>" +
+                        "<td>" + data[i].Name + "</td>" +
+                        "<td>" + data[i].Address + "</td>" +
+                        "<td><button class='btn btn-primary' onclick='edit(" + data[i].Id + ")' >Edit</button>" +
+                        "<button class='btn btn-danger' onclick='deletestd(" + data[i].Id + ")' >Delete</button></td>" +
+                        "</tr>"
+                    );
+                }
+            }).fail(function (err) {
+                console.log(err);
+            });
+        }
+        function deletestd(id) {
+
+            $.ajax({
+                url: "/Home/delete/" + id,
+                type: "GET",
+                dataType: "Json"
+            }).done(function (data) {
+
+                console.log(data.success);
+                LoadData();
+
+            }).fail(function (err) {
+
+                console.log(err);
+            });
+
+
+        } //Delete
+        function clearall() {
+            $("#name").val('');
+            $("#email").val('');
+            $("#phone").val('');
+            $("#subject").val('');
+            $("#message").val('');
+
+
+        }
+        function edit(id) {
+
+            $.ajax({
+                url: "/Home/Getbyid/" + id,
+                type: "GET",
+                dataType: "Json"
+            }).done(function (data) {
+
+                console.log(data.Name);
+                $("#name").val(data.Name);
+                $("#adress").val(data.Address);
+            }).fail(function (err) {
+
+                console.log(err);
+            });
+        }; //Edit
+
+        $("#btnupdate").click(function () {
+            var obj = {
+                Name: $("#name").val(),
+                Address: $("#adress").val(),
+                Id: $("#id").val()
+            }
+            $.ajax({
+                url: "/Home/Update",
+                type: "POST",
+                dataType: "Json",
+                data: JSON.stringify(obj),
+                contentType: "application/json"
+            }).done(function (data) {
+
+                console.log(data.Name);
+
+                LoadData();
+                clearall();
+
+            }).fail(function (err) {
+
+                console.log(err.responseText);
+            });
+        });
+
+        function validateForm() {
+
+            var name = $("#name").val();
+            var email = $("#email").val();
+            var phone = $("#phone").val();
+            var subject = $("#subject").val();
+            var message = $("#message").val();
+
+
+            var inputVal = new Array(name, email, phone, subject, message);
+
+            var inputMessage = new Array("Name", "Email", "Phone", "Subject", "Message");
+
+            $('.error').hide();
+
+            if (inputVal[0] == "") {
+                $('.nmerr').after('<span class="error"> Please enter' + inputMessage[0] + '</span>');
+                return false;
+            }
+            if (inputVal[1] == "") {
+                $('.emerr').after('<span class="error"> Please enter' + inputMessage[1] + '</span>');
+                return false;
+            }
+
+            if (inputVal[2] == "") {
+                $('.pnerr').after('<span class="error"> Please enter' + inputMessage[2] + '</span>');
+                return false;
+            }
+            if (inputVal[3] == "") {
+                $('.sberr').after('<span class="error"> Please enter' + inputMessage[3] + '</span>');
+                return false;
+            }
+            if (inputVal[4] == "") {
+                $('.mserr').after('<span class="error"> Please enter' + inputMessage[4] + '</span>');
+                return false;
+            }
+
+            else {
+                return true;
+            }
+        }
+
+
+    </script>
+}

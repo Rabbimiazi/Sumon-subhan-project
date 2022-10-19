@@ -1,0 +1,753 @@
+﻿
+@{
+    ViewBag.Title = "Poems";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<section class="home-slider owl-carousel js-fullheight">
+    <div class="slider-item js-fullheight" style="background-image: url('/picture/Slider/Slider12.jpg');">
+        @*<div class="overlay"></div>*@
+        <div class="container">
+            <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
+                <div class="col-md-12 col-sm-12 text-center ftco-animate">
+                    @*<h3 style="color:white">Message From MD</h3>*@
+                    @*<span class="subheading">Message From MD</span>*@
+                    @*<h1 class="mb-4">Trust Overseas <br /> Recruiting Agency</h1>*@
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@*<section class="ftco-seperator bg-light container-fluid cust">
+    <div style="padding:80px">
+        <center>
+            <h3> Message From A Menton </h3>
+            <div class="media-left">
+                <img src="~/picture/Message from a menton.jpg" />
+        </div>*@
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+<style>
+
+    .gallery-title {
+        font-size: 36px;
+        color: #42B32F;
+        text-align: center;
+        font-weight: 500;
+        margin-bottom: 70px;
+    }
+
+        .gallery-title:after {
+            content: "";
+            position: absolute;
+            width: 7.5%;
+            left: 46.5%;
+            height: 45px;
+            border-bottom: 1px solid #5e5e5e;
+        }
+
+    .filter-button {
+        font-size: 18px;
+        border: 1px solid #42B32F;
+        border-radius: 5px;
+        text-align: center;
+        color: #42B32F;
+        margin-bottom: 30px;
+    }
+
+        .filter-button:hover {
+            font-size: 18px;
+            border: 1px solid #42B32F;
+            border-radius: 5px;
+            text-align: center;
+            color: #ffffff;
+            background-color: #42B32F;
+        }
+
+    .btn-default:active .filter-button:active {
+        background-color: #42B32F;
+        color: white;
+    }
+
+    .port-image {
+        width: 100%;
+    }
+
+    .gallery_product {
+        margin-bottom: 30px;
+    }
+    /*---- 2nd-----*/
+
+    #demo {
+        height: 100%;
+        position: relative;
+        overflow: hidden;
+    }
+
+
+    .green {
+        background-color: #6fb936;
+    }
+
+    .thumb {
+        margin-bottom: 30px;
+    }
+
+    .page-top {
+        margin-top: 85px;
+    }
+
+    img.zoom {
+        width: 100%;
+        height: 200px;
+        border-radius: 5px;
+        object-fit: cover;
+        -webkit-transition: all .3s ease-in-out;
+        -moz-transition: all .3s ease-in-out;
+        -o-transition: all .3s ease-in-out;
+        -ms-transition: all .3s ease-in-out;
+    }
+
+    .transition {
+        -webkit-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -o-transform: scale(1.2);
+        transform: scale(1.2);
+    }
+
+    .modal-header {
+        border-bottom: none;
+    }
+
+    .modal-title {
+        color: #000;
+    }
+
+    .modal-footer {
+        display: none;
+    }
+</style>
+<section class="jello"></section>
+    <div class="container">
+        <div class="row">
+            <div class="mt-5"></div>
+            <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                @*<h1 class="gallery-title">Gallery</h1>*@
+            </div>
+
+            <div class="col-12" align="center">
+                @*<button class="btn btn-default filter-button" data-filter="all">All</button>
+            <button class="btn btn-default filter-button" data-filter="Picture">Pictures</button>
+            <button class="btn btn-default filter-button" data-filter="video">Videos</button>
+            @*<button class="btn btn-default filter-button" data-filter="spray">Spray Nozzle</button>
+                <button class="btn btn-default filter-button" data-filter="irrigation">Irrigation Pipes</button>*@
+
+                <form style="margin: auto;max-width: 300px;float:right;">
+                    <input type="text" placeholder="Search.." name="search2">
+                    <button type="submit"><i class="icon icon-search"></i></button>
+                </form>
+                <center class="Picture"><h3>Poems</h3></center>
+            </div>
+
+            <br />
+
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/11.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/11.jpg" class="zoom img-fluid " alt="">
+
+                </a>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/Untitled-12 13 copy.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/Untitled-12 13 copy.jpg" class="zoom img-fluid" alt="">
+                </a>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/14.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/14.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb filter Picture ">
+                <a href="~/picture/Poems/15.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/15.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/16.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/16.jpg" class="zoom img-fluid " alt="">
+
+                </a>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/17.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/17.jpg" class="zoom img-fluid" alt="">
+                </a>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/18.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/18.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/Untitled-19 20.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/Untitled-19 20.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/21.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/21.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/Untitled-22 23.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/Untitled-22 23.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/24.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/24.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/Untitled-25 26 27.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/Untitled-25 26 27.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/28.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/28.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/29.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/29.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/Untitled-30 31.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/Untitled-30 31.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/Untitled-32 33.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/Untitled-32 33.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/Untitled-34 35.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/Untitled-34 35.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/Untitled-36 37.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/Untitled-36 37.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/Untitled-39 40.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/Untitled-39 40.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/41.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/41.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/42.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/42.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/43.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/43.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/Untitled-44 45.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/Untitled-44 45.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/47.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/47.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/48.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/48.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/48.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/48.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/49.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/49.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/50.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/50.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/50.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/50.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/51.jp" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/51.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/52.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/52.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/53.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/53.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/54.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/54.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/55.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/55.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb filter Picture">
+                <a href="~/picture/Poems/Untitled-56 57.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/Untitled-56 57.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/58.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/58.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/59.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/59.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/Untitled-60 61.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/Untitled-60 61.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/62.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/62.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/63.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/63.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/64.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/64.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/65.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/65.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/66.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/66.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/67.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/67.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/68.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/68.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/69.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/69.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb filter Picture">
+                <a href="~/picture/Poems/70.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/70.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/71.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/71.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/72.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/72.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/73.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/73.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/74.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/74.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/Untitled-75 76 77.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/Untitled-75 76 77.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter Picture">
+                <a href="~/picture/Poems/78.jpg" class="fancybox" rel="ligthbox">
+                    <img src="~/picture/Poems/78.jpg" class="zoom img-fluid " alt="">
+                </a>
+            </div>
+
+
+
+            @*<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+            <a href="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+                <img src="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="zoom img-fluid " alt="">
+
+            </a>
+        </div>*@
+        </div>
+
+        @*<div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter Picture">
+                <img src="~/picture/Tora/home.jpg" width="365" height="365" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter video">
+                <img src="http://fakeimg.pl/365x365/" width="365" height="365" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter Picture">
+                <img src="http://fakeimg.pl/365x365/" width="365" height="365" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter video">
+                <img src="http://fakeimg.pl/365x365/" width="365" height="365" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter Picture">
+                <img src="http://fakeimg.pl/365x365/" width="365" height="365" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter video">
+                <img src="http://fakeimg.pl/365x365/" width="365" height="365" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter video">
+                <img src="http://fakeimg.pl/365x365/" width="365" height="365" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter Picture">
+                <img src="http://fakeimg.pl/365x365/" width="365" height="365" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter video">
+                <img src="http://fakeimg.pl/365x365/" width="365" height="365" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter Picture">
+                <img src="http://fakeimg.pl/365x365/" width="365" height="365" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter video">
+                <img src="http://fakeimg.pl/365x365/" width="365" height="365" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter Picture">
+                <img src="http://fakeimg.pl/365x365/" width="365" height="365" class="img-responsive">
+            </div>*@
+    </div>
+</section>
+<!--<section class="ftco-section ftco-wrap-about container">
+    <div class="row">
+
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter video">
+            <a href="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+                <iframe class="embed-responsive-item zoom img-fluid " src="https://www.youtube.com/embed/zr_fM6TKm4s"
+                        allowfullscreen></iframe>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter video">
+            <a href="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+                <iframe class="embed-responsive-item zoom img-fluid " src="https://www.youtube.com/embed/zr_fM6TKm4s"
+                        allowfullscreen></iframe>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter video">
+            <a href="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+                <iframe class="embed-responsive-item zoom img-fluid " src="https://www.youtube.com/embed/zr_fM6TKm4s"
+                        allowfullscreen></iframe>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter video">
+            <a href="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+                <iframe class="embed-responsive-item zoom img-fluid " src="https://www.youtube.com/embed/zr_fM6TKm4s"
+                        allowfullscreen></iframe>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter video">
+            <a href="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+                <iframe class="embed-responsive-item zoom img-fluid " src="https://www.youtube.com/embed/zr_fM6TKm4s"
+                        allowfullscreen></iframe>
+            </a>
+        </div>
+
+
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter video">
+            <a href="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+                <iframe class="embed-responsive-item zoom img-fluid " src="https://www.youtube.com/embed/zr_fM6TKm4s"
+                        allowfullscreen></iframe>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter video">
+            <a href="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+                <iframe class="embed-responsive-item zoom img-fluid " src="https://www.youtube.com/embed/zr_fM6TKm4s"
+                        allowfullscreen></iframe>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb  filter video">
+            <a href="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+                <iframe class="embed-responsive-item zoom img-fluid " src="https://www.youtube.com/embed/zr_fM6TKm4s"
+                        allowfullscreen></iframe>
+            </a>
+        </div>-->
+@*<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+        <a href="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+            <img src="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="zoom img-fluid " alt="">
+
+        </a>
+    </div>*@
+<!--</div>
+
+</section>-->
+<!--<section class="ftco-section ftco-wrap-about container">-->
+<!-- Grid row -->
+<!--<div class="row">-->
+<!-- Grid column -->
+<!--<div class="col-lg-4 col-md-12 mb-4">-->
+<!--Modal: Name-->
+<!--<div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">-->
+<!--Content-->
+<!--<div class="modal-content">-->
+<!--Body-->
+<!--<div class="modal-body mb-0 p-0">
+
+    <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/A3PDXmYoF5U"
+                allowfullscreen></iframe>
+    </div>
+
+</div>-->
+<!--Footer-->
+<!--<div class="modal-footer justify-content-center">
+    <span class="mr-4">Spread the word!</span>
+    <a type="button" class="btn-floating btn-sm btn-fb"><i class="fab fa-facebook-f"></i></a>-->
+<!--Twitter-->
+<!--<a type="button" class="btn-floating btn-sm btn-tw"><i class="fab fa-twitter"></i></a>-->
+<!--Google +-->
+<!--<a type="button" class="btn-floating btn-sm btn-gplus"><i class="fab fa-google-plus-g"></i></a>-->
+<!--Linkedin-->
+<!--<a type="button" class="btn-floating btn-sm btn-ins"><i class="fab fa-linkedin-in"></i></a>
+
+        <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+
+    </div>
+
+</div>-->
+<!--/.Content-->
+<!--</div>
+</div>-->
+<!--Modal: Name-->
+<!--<a>
+        <img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-1.jpg" alt="video"
+             data-toggle="modal" data-target="#modal1">
+    </a>
+
+</div>-->
+<!-- Grid column -->
+<!-- Grid column -->
+<!--<div class="col-lg-4 col-md-6 mb-4">-->
+<!--Modal: Name-->
+<!--<div class="modal fade" id="modal6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">-->
+<!--Content-->
+<!--<div class="modal-content">-->
+<!--Body-->
+<!--<div class="modal-body mb-0 p-0">
+
+    <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wTcNtgA6gHs"
+                allowfullscreen></iframe>
+    </div>
+
+</div>-->
+<!--Footer-->
+<!--<div class="modal-footer justify-content-center">
+    <span class="mr-4">Spread the word!</span>
+    <a type="button" class="btn-floating btn-sm btn-fb"><i class="fab fa-facebook-f"></i></a>-->
+<!--Twitter-->
+<!--<a type="button" class="btn-floating btn-sm btn-tw"><i class="fab fa-twitter"></i></a>-->
+<!--Google +-->
+<!--<a type="button" class="btn-floating btn-sm btn-gplus"><i class="fab fa-google-plus-g"></i></a>-->
+<!--Linkedin-->
+<!--<a type="button" class="btn-floating btn-sm btn-ins"><i class="fab fa-linkedin-in"></i></a>
+
+        <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+
+    </div>
+
+</div>-->
+<!--/.Content-->
+<!--</div>
+</div>-->
+<!--Modal: Name-->
+<!--<a>
+        <img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-2.jpg" alt="video"
+             data-toggle="modal" data-target="#modal6">
+    </a>
+
+</div>-->
+<!-- Grid column -->
+<!-- Grid column -->
+<!--<div class="col-lg-4 col-md-6 mb-4">-->
+<!--Modal: Name-->
+<!--<div class="modal fade" id="modal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">-->
+<!--Content-->
+<!--<div class="modal-content">-->
+<!--Body-->
+<!--<div class="modal-body mb-0 p-0">
+
+    <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vlDzYIIOYmM"
+                allowfullscreen></iframe>
+    </div>
+
+</div>-->
+<!--Footer-->
+<!--<div class="modal-footer justify-content-center">
+    <span class="mr-4">Spread the word!</span>
+    <a type="button" class="btn-floating btn-sm btn-fb"><i class="fab fa-facebook-f"></i></a>-->
+<!--Twitter-->
+<!--<a type="button" class="btn-floating btn-sm btn-tw"><i class="fab fa-twitter"></i></a>-->
+<!--Google +-->
+<!--<a type="button" class="btn-floating btn-sm btn-gplus"><i class="fab fa-google-plus-g"></i></a>-->
+<!--Linkedin-->
+<!--<a type="button" class="btn-floating btn-sm btn-ins"><i class="fab fa-linkedin-in"></i></a>
+
+        <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+
+    </div>
+
+</div>-->
+<!--/.Content-->
+<!--</div>
+</div>-->
+<!--Modal: Name-->
+<!--<a>
+        <img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-3.jpg" alt="video"
+             data-toggle="modal" data-target="#modal4">
+    </a>
+
+</div>-->
+<!-- Grid column -->
+<!--</div>-->
+<!-- Grid row -->
+<!--</section>-->
+
+@section scripts
+{
+    @*Image gallary*@
+
+    @*<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>*@
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+    <script type="text/javascript">
+
+
+
+        $(document).ready(function () {
+
+            $(".filter-button").click(function () {
+                var value = $(this).attr('data-filter');
+
+                if (value == "all") {
+                    //$('.filter').removeClass('hidden');
+                    $('.filter').show('1000');
+                }
+                else {
+                    //            $('.filter[filter-item="'+value+'"]').removeClass('hidden');
+                    //            $(".filter").not('.filter[filter-item="'+value+'"]').addClass('hidden');
+                    $(".filter").not('.' + value).hide('3000');
+                    $('.filter').filter('.' + value).show('3000');
+
+                }
+            });
+
+            if ($(".filter-button").removeClass("active")) {
+                $(this).removeClass("active");
+            }
+            $(this).addClass("active");
+
+        });
+        //// 2nd
+        $(".fancybox").fancybox({
+            openEffect: "none",
+            closeEffect: "none"
+        });
+
+        $(".zoom").hover(function () {
+
+            $(this).addClass('transition');
+        }, function () {
+
+            $(this).removeClass('transition');
+        });
+
+        //Vidoe galary
+
+        $('#modal1').on('hidden.bs.modal', function (e) {
+            // do something...
+            $('#modal1 iframe').attr("src", $("#modal1 iframe").attr("src"));
+        });
+
+        $('#modal6').on('hidden.bs.modal', function (e) {
+            // do something...
+            $('#modal6 iframe').attr("src", $("#modal6 iframe").attr("src"));
+        });
+
+        $('#modal4').on('hidden.bs.modal', function (e) {
+            // do something...
+            $('#modal4 iframe').attr("src", $("#modal4 iframe").attr("src"));
+        });
+
+    </script>
+}
+
